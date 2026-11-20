@@ -1,0 +1,6 @@
+{
+  "appId": "com.gravityflip.arcade",
+  "appName": "Gravity Flip",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
