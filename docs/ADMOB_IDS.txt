@@ -1,0 +1,7 @@
+Google Android TEST IDs (development only)
+App ID: ca-app-pub-3940256099942544~3347511713
+Banner: ca-app-pub-3940256099942544/6300978111
+Interstitial: ca-app-pub-3940256099942544/1033173712
+Rewarded: ca-app-pub-3940256099942544/5224354917
+
+Do not click your own live ads. Replace test IDs with your own ad units before release.
